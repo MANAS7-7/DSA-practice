@@ -1,0 +1,1 @@
+// this can include all the libraries in a function of cpp like math, conio bla bla include<bits/stdc++.h>
